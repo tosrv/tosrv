@@ -13,6 +13,37 @@ I have experience working with **JavaScript, React.js, Next.js, and Express.js**
 - 🌱 Currently learning **Golang for backend**
 - 🎯 Goal: become a strong **Full-Stack / Backend Engineer**
 
+## Featured Project
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img height="165" src="./project/circle.gif"><br>
+<b>Circle App</b><br>
+Social media platform with realtime updates
+
+</td>
+
+<td align="center">
+
+<img height="165" src="./project/yellowstore.gif"><br>
+<b>Yellow Store</b><br>
+E-commerce application with payment integration
+
+</td>
+
+<td align="center">
+
+<img height="165" src="./project/u-short.gif"><br>
+<b>U-Short</b><br>
+URL shortener built with Golang
+
+</td>
+</tr>
+</table>
+
+
 ## Tech Stack
 
 ### Languages
