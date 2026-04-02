@@ -84,17 +84,6 @@ URL shortener built with Golang
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tosrv&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=tosrv&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosrv&layout=compact&theme=tokyonight" />
-</div>
-
 ## Connect With Me
 
 - LinkedIn → https://www.linkedin.com/in/rahmat-tomy
